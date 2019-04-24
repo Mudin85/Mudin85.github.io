@@ -1,0 +1,28 @@
+body{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    background-image: "header.jpg";
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.btn-danger {
+    height: 60px;
+    width: 220px;
+    border-radius: 40px;
+    position: absolute;
+    top: 65%;
+    margin: auto;
+    left: 40%;
+}
+
+h1 {
+    left: 20%;
+    line-height: 200px;
+    margin: auto;
+    position: absolute;
+    top: 20%;
+    width: 100%;
+}
